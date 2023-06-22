@@ -1,0 +1,28 @@
+<svg
+      width="33"
+      height="38"
+      viewBox="0 0 33 38"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M0 28.015L16.114 18.451L32.1687 28.015L16.2821 37.6026L0 28.015Z"
+    fill="#0393FB"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M16.114 0L32.1687 9.20747L32.1687 28.015L16.114 18.451V0Z"
+    fill="#0393FB"
+    fill-opacity="0.75"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M16.114 0L0 9.20747V28.015L16.114 18.451V0Z"
+    fill="#0393FB"
+    fill-opacity="0.25"
+  />
+</svg>
