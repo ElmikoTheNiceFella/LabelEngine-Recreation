@@ -658,7 +658,7 @@ export default function LandingPage({ dark }: Dark) {
       </main>
       <footer
         id="contact"
-        className="h-[52rem] sm:h-[47rem] lg:h-[30rem] bg-[#006FFF] flex flex-col items-center"
+        className="h-[54rem] sm:h-[47rem] lg:h-[30rem] bg-[#006FFF] flex flex-col items-center"
       >
         <p className="font-[Inter] tracking-[0.5rem] text-center mt-16 text-white opacity-50 uppercase">
           #1 cheap & reliable shipping labels
