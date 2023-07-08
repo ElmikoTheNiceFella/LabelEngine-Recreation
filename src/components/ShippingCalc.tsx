@@ -81,7 +81,7 @@ export default function ShippingCalc({ dark }:Dark) {
         </div>
         <h1
           style={{ color: dark ? "white" : "black" }}
-          className="text-2xl sm:text-3xl sm:text-4xl font-bold tracking-[-2px] mt-8"
+          className="text-[1.65rem] sm:text-3xl sm:text-4xl font-bold tracking-[-2px] mt-8"
         >
           Get a quote on your shipping cost
         </h1>
