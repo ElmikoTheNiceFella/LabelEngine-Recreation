@@ -514,7 +514,7 @@ export default function LandingPage({ dark }: Dark) {
                 borderColor: "#006FFF",
                 color: dark ? "white" : "black",
               }}
-              className="border-2 w-fit gap-1 relative flex px-6 mr-4 py-3 rounded-full"
+              className="border-2 w-fit gap-1 relative flex px-4 sm:px-6 mr-4 py-3 rounded-full"
             >
               <img src={Calc} className="mt-[0.12rem]" alt="calculator-icon" />{" "}
               <span className="text-[#006FFF] whitespace-nowrap">
