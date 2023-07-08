@@ -81,7 +81,7 @@ export default function ShippingCalc({ dark }:Dark) {
         </div>
         <h1
           style={{ color: dark ? "white" : "black" }}
-          className="text-3xl sm:text-4xl font-bold tracking-[-2px] mt-8"
+          className="text-2xl sm:text-3xl sm:text-4xl font-bold tracking-[-2px] mt-8"
         >
           Get a quote on your shipping cost
         </h1>
@@ -92,8 +92,8 @@ export default function ShippingCalc({ dark }:Dark) {
           <br />& savings using our Shipping Calculator.
         </p>
       </div>
-      <div className="w-[27rem] sm:w-[30rem] md:w-[36rem] mt-8 h-[35rem] md:h-[30rem] m-auto">
-        <div className="text-white pb-2 z-10 ml-[20rem] md:ml-[27.5rem] absolute px-2 bg-[#006fff] w-fit rounded-xl">
+      <div className="w-[26rem] sm:w-[30rem] md:w-[36rem] mt-8 h-[35rem] md:h-[30rem] m-auto">
+        <div className="text-white pb-2 z-10 ml-[18rem] sm:ml-[20rem] md:ml-[27.5rem] absolute px-3 sm:px-2 bg-[#006fff] w-fit rounded-xl">
           <p className="font-['Satoshi']">Save up to</p>
           <h3 className="font-bold font-['Satoshi'] text-[2rem] leading-7">
             89%
