@@ -663,7 +663,7 @@ export default function LandingPage({ dark }: Dark) {
         <p className="font-[Inter] tracking-[0.5rem] text-center mt-16 text-white opacity-50 uppercase">
           #1 cheap & reliable shipping labels
         </p>
-        <h1 className="font-[Satoshi] text-white text-center text-4xl mt-6">
+        <h1 className="font-[Satoshi] text-white text-center text-3xl sm:text-4xl mt-6">
           Streamline your shipping with <strong>labelengine™</strong>
         </h1>
         <div className="flex gap-4 mt-12 flex-col w-5/6 justify-center lg:flex-row">
