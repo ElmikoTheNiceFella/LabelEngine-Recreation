@@ -233,7 +233,7 @@ export default function LandingPage({ dark }: Dark) {
           className="overflow-hidden h-[100%]"
         >
           <img
-            className="min-w-max z-0 relative top-[33rem] md:top-96 right-24"
+            className="min-w-[2000px] z-0 relative top-[33rem] md:top-72 right-24"
             id="bg-image"
             src={BGImage}
             alt="bg-image"
